@@ -25,4 +25,7 @@ public class Helloworl {
      private void f2() {
         // Placeholder method (v1.0)}
     }
+ private void f2() {
+        // Placeholder method (v1.0)}
+    }
 }
